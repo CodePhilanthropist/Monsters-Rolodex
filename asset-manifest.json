@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/css/main.1e1694a2.chunk.css",
+    "main.js": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/main.2d50267b.chunk.js",
+    "main.js.map": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/main.2d50267b.chunk.js.map",
+    "runtime-main.js": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/runtime-main.cb34c2b9.js",
+    "runtime-main.js.map": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/runtime-main.cb34c2b9.js.map",
+    "static/js/2.053fb966.chunk.js": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/2.053fb966.chunk.js",
+    "static/js/2.053fb966.chunk.js.map": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/2.053fb966.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/CodePhilanthropist.github.io/Monsters-Rolodex/index.html",
+    "static/css/main.1e1694a2.chunk.css.map": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/css/main.1e1694a2.chunk.css.map",
+    "static/js/2.053fb966.chunk.js.LICENSE.txt": "/CodePhilanthropist.github.io/Monsters-Rolodex/static/js/2.053fb966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb34c2b9.js",
+    "static/js/2.053fb966.chunk.js",
+    "static/css/main.1e1694a2.chunk.css",
+    "static/js/main.2d50267b.chunk.js"
+  ]
+}
