@@ -1,7 +1,7 @@
 import React from 'react';
-import Card from './CardList';
-import 'search  '
-export const SearchBox = (props) => {
+import './search-box.styles.css';
 
+export const SearchBox = ({placeholder, handleChange}) => {
+    return <input className="search" type="search" placeholder={placeholder} onChange={handleChange} />
 
 }
