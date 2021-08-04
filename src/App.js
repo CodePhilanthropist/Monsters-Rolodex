@@ -9,11 +9,13 @@ class App extends Component {
     this.state = {
       monsters: [],
       searchField: "",
+      title: ""
     };
   }
 
   handleChange=(e)=>{
-    this.setState({searchField: e.target.value}); 
+    // this.setState({searchField: e.target.value}); 
+    this.setState((prevState, prevPropos) => {return {title: prevState.state.title + 1}}, ()=> console.log(this.state.title))
   }
 
   componentDidMount() {
@@ -21,6 +23,8 @@ class App extends Component {
       .then(response => response.json())
       .then(users => this.setState({ monsters: users }))
   }
+
+
   render() {
     const { monsters, searchField } = this.state;
     const filteredMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLocaleLowerCase()))
